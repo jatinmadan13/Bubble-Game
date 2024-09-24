@@ -16,3 +16,27 @@ This project is a simple web-based game where players need to click on randomly 
 3. Make sure `style.css` and `script.js` are in the same folder as `index.html`.
 
 ### File Structure:
+/Bubble-Game
+    - index.html
+    - style.css
+    - script.js
+    - README.md
+
+
+## How to Play
+
+1. Open the game by opening `index.html` in your browser.
+2. The "Hit" number will appear on the top of the screen.
+3. Click on the bubble that matches the "Hit" number.
+4. For every correct match, you will earn 10 points, a new set of bubbles will be generated, and the "Hit" number will change.
+5. The game lasts for 60 seconds. Try to score as many points as possible!
+
+## Future Improvements
+
+- Add different levels of difficulty.
+- Introduce a restart or reset button at the end of the game.
+- Enhance the UI with animations and transitions.
+
+## License
+
+This project is free to use and open-source.
